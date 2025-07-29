@@ -1,0 +1,5 @@
+librosa
+numpy
+moviepy
+Pillow
+pillow-heif

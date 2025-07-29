@@ -1,0 +1,14 @@
+.venv
+
+*.mp3
+*.mp4
+*.heic
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mov
+*.avi
+*.webm
+*.mkv
+*.webp
