@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "beatsynchr"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python library for syncing images and videos with music beats"
 readme = "README.md"
 authors = [
